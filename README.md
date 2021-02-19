@@ -1,2 +1,0 @@
-# howdy-jack
-Begin app
